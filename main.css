@@ -1,0 +1,46 @@
+
+html{
+	padding: 0px;
+	margin: 0px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    outline: solid green 1px;
+    font-size: 0.5em;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 6px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+caption{
+	font-size: 2em;
+	font-weight: bold;
+	background-color: #000;
+	color: #fff;
+}
+
+.laranja{
+	background-color: #efcf00
+}
+
+.verde{
+    background-color: #82e444
+}
+
+.vermelho{
+    background-color: rgb(255,50,50);
+}
+
+.azul{
+    background-color: rgb(50,180,255);
+}
